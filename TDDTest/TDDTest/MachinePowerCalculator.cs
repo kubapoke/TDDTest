@@ -20,10 +20,8 @@ public class MachinePowerCalculator
         {
             throw new ArgumentException("Duration must be greater than zero.");
         }
-
-        var result = powerConsumption.TryGetValue(machineType, out var basePowerConsumption);
-
-        if (!result)
+        
+        if (!powerConsumption.TryGetValue(machineType, out var basePowerConsumption))
         {
             throw new ArgumentException("Invalid machine type.");
         }
