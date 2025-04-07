@@ -1,0 +1,15 @@
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\bin\Debug\net9.0\TDDTest.exe
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\bin\Debug\net9.0\TDDTest.deps.json
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\bin\Debug\net9.0\TDDTest.runtimeconfig.json
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\bin\Debug\net9.0\TDDTest.dll
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\bin\Debug\net9.0\TDDTest.pdb
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.AssemblyInfoInputs.cache
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.AssemblyInfo.cs
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.csproj.CoreCompileInputs.cache
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.sourcelink.json
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.dll
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\refint\TDDTest.dll
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.pdb
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\TDDTest.genruntimeconfig.cache
+C:\Users\uku\Desktop\GitHub-repos\TDDTest\TDDTest\TDDTest\obj\Debug\net9.0\ref\TDDTest.dll
