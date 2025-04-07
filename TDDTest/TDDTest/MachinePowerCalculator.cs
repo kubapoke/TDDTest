@@ -2,7 +2,7 @@
 
 public class MachinePowerCalculator
 {
-    double GetPowerConsumption(string machineType, int duration, bool isEnergySaving)
+    public double GetPowerConsumption(string machineType, int duration, bool isEnergySaving)
     {
         throw new NotImplementedException();
     }
