@@ -83,7 +83,7 @@ public class MachinePowerCalculatorTests
         string machineType = "MillingMachine";
         int duration = 10;
         bool isEnergySaving = false;
-        double expected = 5.0 * double.Log(duration + 1);
+        double expected = 5.0 * double.Log10(duration + 1);
         
         // Act
         var res = sut.GetPowerConsumption(machineType, duration, isEnergySaving);
@@ -99,7 +99,7 @@ public class MachinePowerCalculatorTests
         string machineType = "Press";
         int duration = 10;
         bool isEnergySaving = false;
-        double expected = 7.2 * double.Log(duration + 1);
+        double expected = 7.2 * double.Log10(duration + 1);
         
         // Act
         var res = sut.GetPowerConsumption(machineType, duration, isEnergySaving);
@@ -115,7 +115,7 @@ public class MachinePowerCalculatorTests
         string machineType = "Lathe";
         int duration = 10;
         bool isEnergySaving = false;
-        double expected = 3.5 * double.Log(duration + 1);
+        double expected = 3.5 * double.Log10(duration + 1);
         
         // Act
         var res = sut.GetPowerConsumption(machineType, duration, isEnergySaving);
@@ -131,7 +131,7 @@ public class MachinePowerCalculatorTests
         string machineType = "Ivalid";
         int duration = 10;
         bool isEnergySaving = false;
-        double expected = 7.2 * double.Log(duration + 1);
+        double expected = 7.2 * double.Log10(duration + 1);
         
         // Act
         Action act = () => sut.GetPowerConsumption(machineType, duration, isEnergySaving);
@@ -147,8 +147,8 @@ public class MachinePowerCalculatorTests
         // Arrange
         string machineType = "MillingMachine";
         int duration = 10;
-        bool isEnergySaving = false;
-        double expected = 5.0 * 0.8 * double.Log(duration + 1);
+        bool isEnergySaving = true;
+        double expected = 5.0 * 0.8 * double.Log10(duration + 1);
         
         // Act
         var res = sut.GetPowerConsumption(machineType, duration, isEnergySaving);
