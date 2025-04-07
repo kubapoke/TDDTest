@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDTest", "TDDTest\TDDTest.csproj", "{9B136C80-2847-4210-B77C-994B00A3BFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDTest.UnitTests", "TDDTest.UnitTests\TDDTest.UnitTests.csproj", "{214B4A30-EA2A-4D1F-97D5-43D0F212145B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B136C80-2847-4210-B77C-994B00A3BFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B136C80-2847-4210-B77C-994B00A3BFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B136C80-2847-4210-B77C-994B00A3BFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B136C80-2847-4210-B77C-994B00A3BFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214B4A30-EA2A-4D1F-97D5-43D0F212145B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214B4A30-EA2A-4D1F-97D5-43D0F212145B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214B4A30-EA2A-4D1F-97D5-43D0F212145B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214B4A30-EA2A-4D1F-97D5-43D0F212145B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
